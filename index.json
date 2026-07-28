@@ -33,7 +33,7 @@
           "gameVersions": ["1.15"],
           "minMelonLoaderVersion": "0.7.3",
           "extensionType": "dll",
-          "downloadUrl": "https://github.com/takacomic/CoffinTech/releases/download/v1.1.1/CoffinTech.dll",
+          "downloadUrl": "https://github.com/takacomic/ContestCharacters/releases/download/v1.1.1/ContestCharacters.dll",
           "sha256": "10902ac81314071b4137d54d6b0b1988a4c348d37db7e6970e427de7fc8e0561",
           "dependencies": ["coffintech"],
           "changelog": "Fixed for 1.15 support"
