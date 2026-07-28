@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-27T00:00:00Z",
+  "mods": [
+    {
+      "id": "coffintech",
+      "name": "CoffinTech",
+      "author": "takacomic",
+      "repo": "takacomic/CoffinTech",
+      "description": "Base mod for various VS mods by takacomic.",
+      "versions": [
+        {
+          "version": "1.2.4",
+          "gameVersions": ["1.15"],
+          "minMelonLoaderVersion": "0.7.3",
+          "extensionType": "dll",
+          "downloadUrl": "https://github.com/takacomic/CoffinTech/releases/download/v1.2.4/CoffinTech.dll",
+          "sha256": "5831fc2721797cedfbd02eed797ce7a923cffe8aff9bb5ecd41258c3698908e3",
+          "dependencies": [],
+          "changelog": "Fixes for 1.15"
+        }
+      ]
+    },
+	{
+      "id": "contestCharacters",
+      "name": "Contest Characters",
+      "author": "takacomic",
+      "repo": "takacomic/ContestCharacters",
+      "description": "Everyone is here. Plus extras",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "gameVersions": ["1.15"],
+          "minMelonLoaderVersion": "0.7.3",
+          "extensionType": "dll",
+          "downloadUrl": "https://github.com/takacomic/CoffinTech/releases/download/v1.1.1/CoffinTech.dll",
+          "sha256": "10902ac81314071b4137d54d6b0b1988a4c348d37db7e6970e427de7fc8e0561",
+          "dependencies": ["coffintech"],
+          "changelog": "Fixed for 1.15 support"
+        }
+      ]
+    }
+  ]
+}
