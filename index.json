@@ -10,12 +10,12 @@
       "description": "Base mod for various VS mods by takacomic.",
       "versions": [
         {
-          "version": "1.2.4",
+          "version": "1.2.5",
           "gameVersions": ["1.15"],
           "minMelonLoaderVersion": "0.7.3",
           "extensionType": "dll",
-          "downloadUrl": "https://github.com/takacomic/CoffinTech/releases/download/v1.2.4/CoffinTech.dll",
-          "sha256": "5831fc2721797cedfbd02eed797ce7a923cffe8aff9bb5ecd41258c3698908e3",
+          "downloadUrl": "https://github.com/takacomic/CoffinTech/releases/download/v1.2.5/CoffinTech.dll",
+          "sha256": "6840aa92c186aa70b1ec883b1b2469d6948906ebe17fa20b05ccfbfe9daa1140",
           "dependencies": [],
           "changelog": "Fixes for 1.15"
         }
