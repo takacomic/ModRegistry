@@ -29,12 +29,12 @@
       "description": "Everyone is here. Plus extras",
       "versions": [
         {
-          "version": "1.1.2",
+          "version": "1.1.3",
           "gameVersions": ["1.15"],
           "minMelonLoaderVersion": "0.7.3",
           "extensionType": "dll",
-          "downloadUrl": "https://github.com/takacomic/ContestCharacters/releases/download/v1.1.2/ContestCharacters.dll",
-          "sha256": "7a2b4e2269f21c51101ac041be476f19be989fddccfbc68e4f7c413a26cc52d2",
+          "downloadUrl": "https://github.com/takacomic/ContestCharacters/releases/download/v1.1.3/ContestCharacters.dll",
+          "sha256": "edddd2101faf7516f46193b81fb474132d34812fc4e266da15d39d3191eab154",
           "dependencies": ["coffintech"],
           "changelog": "Fixed for 1.15 support"
         }
